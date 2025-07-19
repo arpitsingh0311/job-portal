@@ -20,6 +20,7 @@ A full-stack Job Portal web application where users can create profiles, explore
 - React 19
 - Vite
 - Tailwind CSS 4
+- Axios
 - Redux Toolkit
 - React Router v7
 - Sonner for toast notifications
